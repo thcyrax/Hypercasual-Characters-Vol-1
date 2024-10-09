@@ -1,6 +1,7 @@
 # Hypercasual Characters Volume 1
 
 Welcome to **Hypercasual Characters Volume 1**! This asset pack is designed to provide simple, low-poly characters suitable for hypercasual games. Each character is optimized for mobile platforms, ensuring smooth performance in your projects.
+
 ![Asset Store Card Image](https://github.com/user-attachments/assets/087c036d-7d3d-4cf2-8218-e790145e5b32)
 
 ## Features
